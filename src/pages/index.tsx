@@ -29,7 +29,7 @@ const Index: NextPage<Props> = ({ states }) => {
           padding: 4px 8px;
           border-radius: 4px;
           text-decoration: none;
-          color: #0007dd;
+          color: red;
           margin-right: 4px;
           margin-bottom: 4px;
         }
